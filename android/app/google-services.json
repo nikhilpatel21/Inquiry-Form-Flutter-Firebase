@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655372369335",
+    "project_id": "check-82d7e",
+    "storage_bucket": "check-82d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655372369335:android:4250b82d3f743ab691bc32",
+        "android_client_info": {
+          "package_name": "com.example.photocheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ituSm90ZS8n419Fq-DhsTmY2aG6i92w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
